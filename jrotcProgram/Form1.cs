@@ -12,24 +12,25 @@ namespace jrotcProgram
 
         }
 
-        private void button1_Click(object sender, EventArgs e)
+        private void reportIssue_Click(object sender, EventArgs e)
         {
 
         }
 
-        private void button2_Click(object sender, EventArgs e)
+        private void viewData_Click(object sender, EventArgs e)
         {
 
         }
 
-        private void button3_Click(object sender, EventArgs e)
+        private void inputExistingData_Click(object sender, EventArgs e)
         {
 
         }
 
-        private void button1_Click_1(object sender, EventArgs e)
+        private void inputNewData_Click(object sender, EventArgs e)
         {
 
         }
+
     }
 }
